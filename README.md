@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shay Sendeke
 - 👀 I’m interested in Frontend development (React, JS, CSS, HTML etc)
 - 🌱 I’m currently learning REACT & Typescript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new job opportunities.
 - 📫 How to reach me: email - shay.sendeke123@gmail.com
 
 <!---
